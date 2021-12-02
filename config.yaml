@@ -1,0 +1,17 @@
+baseURL: https://blog.manojm.me/
+languageCode: en-us
+title: Manoj Kumar Manikchand
+theme: hugo-book
+enableRobotsTXT: true
+enableGitInfo: true
+enableEmoji: true
+
+params:
+  BookServiceWorker: true
+  BookToC: true
+  BookMenuBundle: /menu
+  BookSection: blog
+  BookSearch: true
+  BookRepo: https://github.com/Manoj321/blog
+  BookEditPath: edit/main
+  BookTheme: auto
